@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Ce fichier est utilisé par le processus de publication/package de votre projet web. Vous pouvez personnaliser le comportement de ce processus
+en modifiant ce fichier MSBuild. Pour en savoir plus à ce sujet, visitez https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAQlCjiQw4zUCnZp2YL81X2QAAAAACAAAAAAAQZgAAAAEAACAAAADvwf9NyrTOyM9fcxao8hL4DOhxc3qkG3J4fRnvGvKTsAAAAAAOgAAAAAIAACAAAACXVEIYCFD5LTxEzrFZQ9LhJVt3ZiSzahAhcSRMcJhOSiAAAABR8gnd0ziuWvldpRrF14MOO+sG4AH3IB4ybpMmwt1//0AAAACcjq6gJFZsWnQ3+LSy1LGgYVZcaFq3yuNcOTvcErsYeOQoAjuxwUdkD31q6c0vknowuaA3ImipT4hO5YcuHFHA</EncryptedPassword>
+    <_PublishTargetUrl>ftp://www.loicbaudoux.somee.com/www.loicbaudoux.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ADOToolBox.dll">
+      <publishTime>08/29/2020 23:05:26</publishTime>
+    </File>
+    <File Include="ADOToolBox.pdb">
+      <publishTime>08/29/2020 23:05:26</publishTime>
+    </File>
+    <File Include="ApiCoreForSomee.deps.json">
+      <publishTime>09/02/2020 16:06:10</publishTime>
+    </File>
+    <File Include="ApiCoreForSomee.dll">
+      <publishTime>09/02/2020 16:06:09</publishTime>
+    </File>
+    <File Include="ApiCoreForSomee.exe">
+      <publishTime>09/02/2020 16:06:09</publishTime>
+    </File>
+    <File Include="ApiCoreForSomee.pdb">
+      <publishTime>09/02/2020 16:06:09</publishTime>
+    </File>
+    <File Include="ApiCoreForSomee.runtimeconfig.json">
+      <publishTime>08/31/2020 22:45:32</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>08/30/2020 17:14:56</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>08/30/2020 17:14:56</publishTime>
+    </File>
+    <File Include="DAL.dll">
+      <publishTime>09/02/2020 16:06:08</publishTime>
+    </File>
+    <File Include="DAL.pdb">
+      <publishTime>09/02/2020 16:06:08</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/24/2018 17:44:14</publishTime>
+    </File>
+    <File Include="runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 21:33:18</publishTime>
+    </File>
+    <File Include="runtimes/win-arm64/native/sni.dll">
+      <publishTime>07/12/2017 11:24:24</publishTime>
+    </File>
+    <File Include="runtimes/win-x64/native/sni.dll">
+      <publishTime>07/12/2017 11:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win-x86/native/sni.dll">
+      <publishTime>07/12/2017 11:24:22</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 21:33:24</publishTime>
+    </File>
+    <File Include="Services/ApiControllerUse.cs">
+      <publishTime>01/01/0001 00:00:00</publishTime>
+    </File>
+    <File Include="System.Data.SqlClient.dll">
+      <publishTime>07/20/2020 21:21:14</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>09/02/2020 16:06:14</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
